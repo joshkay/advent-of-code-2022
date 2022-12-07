@@ -2,7 +2,7 @@ import * as fs from 'fs';
 
 const input: string = fs.readFileSync('day6/input.txt', 'utf8');
 
-const NUM_UNIQUE_CHARS = 14;
+const NUM_UNIQUE_CHARS = 4;
 
 let numCharsToProcess;
 
